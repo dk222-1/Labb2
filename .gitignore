@@ -1,0 +1,10 @@
+# Build output
+build/
+build-pico/
+CMakeFiles/
+*.elf
+*.uf2
+*.map
+*.dis
+*.hex
+*.obj
